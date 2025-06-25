@@ -1,3 +1,7 @@
+[![Math Utility Project (CI included) | © 2025 by danh.công](https://github.com/extend-dcode/mathutil/actions/workflows/ci-runner.yml/badge.svg)](https://github.com/extend-dcode/mathutil/actions/workflows/ci-runner.yml)
+
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the folowing stuff
